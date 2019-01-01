@@ -19,6 +19,3 @@ module.exports = (app) => {
     res.send(req.user);
   });
 };
-
-//86254411526-nv5tu59jc8f5c1tihe9eh5h9kghjo3e1.apps.googleusercontent.com
-// dPe7jFH5jnR6GavwSv9-cV_k
